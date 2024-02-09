@@ -1,0 +1,19 @@
+.how-to-change-header {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  font-size: larger;
+  font-weight: bold;
+}
+
+.switch-your-personal {
+  font-size: medium;
+  font-weight: bold;
+}
+
+.switch-your-personal2 {
+  margin-top: 35px;
+  font-size: medium;
+  font-weight: bold;
+}
